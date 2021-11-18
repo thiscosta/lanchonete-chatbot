@@ -27,7 +27,7 @@ function Meats() {
                 />
                 <Card
                     title="Blend da casa"
-                    image="https://w7.pngwing.com/pngs/491/899/png-transparent-hamburger-patty-breakfast-sausage-bread-steak-baked-goods-food-cooking-thumbnail.png"
+                    image="https://i.ibb.co/qY3cw7j/pngwing-com.png"
                     flag="Premium"
                 />
             </SimpleGrid>

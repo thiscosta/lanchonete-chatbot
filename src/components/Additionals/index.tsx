@@ -31,11 +31,11 @@ function Aditionals() {
                 />
                 <Card
                     title="Cebola"
-                    image="https://www.seekpng.com/png/detail/774-7744645_onion-slice-png.png"
+                    image="https://i.ibb.co/LN5Ywbd/cebolinha.png"
                 />
                 <Card
                     title="Picles"
-                    image="https://image.shutterstock.com/image-photo/closeup-sliced-pickles-on-white-260nw-401989216.jpg"
+                    image="https://i.ibb.co/Dk0QkJ8/Daco-5387563.png"
                 />
                 <Card
                     title="Molho especial"

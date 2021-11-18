@@ -23,7 +23,7 @@ function Cheeses() {
                 />
                 <Card
                     title="Cheddar"
-                    image="https://img2.gratispng.com/20180420/hcq/kisspng-cheddar-cheese-emmental-cheese-edam-gouda-cheese-cheddar-5ada2e53c26fa4.7832153315242481477964.jpg"
+                    image="https://www.pikpng.com/pngl/b/207-2074925_slice-on-slice-cheese-clipart.png"
                 />
                 <Card
                     title="Muçarela"
